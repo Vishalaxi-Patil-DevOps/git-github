@@ -1,2 +1,2 @@
 # git-github
-Basic Git Commands
+Basic Git Commands for DevOps Learning path
